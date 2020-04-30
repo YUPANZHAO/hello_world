@@ -4,4 +4,10 @@ int main() {
     std::cout << "hello world!" << std::endl;
 }
 
-// nothing
+// nothi
+/*
+danfja
+dkaopd
+
+dma
+*/
